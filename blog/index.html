@@ -7,6 +7,7 @@ title: Senh's Blog
   {% for post in site.posts %}
     <article class="post">
 
+      <p>{{ post.date | date_to_string }}</p>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
