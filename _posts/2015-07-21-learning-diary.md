@@ -4,7 +4,7 @@ title: Week of 7/19/2015 - 7/25/2015 Daily Learning Diary
 date: 2015-07-21
 ---
 
-### 7/21
+##7/21
 ---
 **Reading The Martian (111/332 - 33% complete)**
 
